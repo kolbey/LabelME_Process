@@ -15,3 +15,7 @@
 ##### **overlay_mask_on_image.py** 
 
 - 用来将语义分割模型预测的mask与原始输入图像image叠加在一起，形成更加直观的可视化效果。
+
+##### **write_file_path_to_txt.py** 
+
+- 用来将训练数据集中的image图像和mask标签的目录写入一个txt文件中，满足部分训练框架只能从txt文件加载训练的需求。
