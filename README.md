@@ -19,3 +19,7 @@
 ##### **write_file_path_to_txt.py** 
 
 - 用来将训练数据集中的image图像和mask标签的目录写入一个txt文件中，满足部分训练框架只能从txt文件加载训练的需求。
+
+##### **feature_map_tsne_visualation.py** 
+
+- 用来将深层特征图进行可视化，形成特征信息降维后的二维分布图。
