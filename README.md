@@ -23,3 +23,9 @@
 ##### **feature_map_tsne_visualation.py** 
 
 - 用来将深层特征图进行可视化，形成特征信息降维后的二维分布图。
+
+##### **screenshot.py** 
+- 该程序是一个示例程序，可以通过`pyautogui`监控屏幕，捕获屏幕的画面内容。
+
+##### **capture_test.py** 
+- 该程序是一个示例程序，可以通过`cv2.VideoCapture`读取指定摄像头或视频文件的内容，并将视频播放在指定大小的窗口中。
